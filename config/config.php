@@ -10,9 +10,9 @@ define('BASE_URL', 'http://localhost/registro_visitas'); // Ajusta si es necesar
 // Configuración de correo electrónico para zhykoluna@gmail.com
 define('MAIL_HOST', 'smtp.gmail.com');
 define('MAIL_PORT', 587); // Puerto para TLS
-define('MAIL_USERNAME', 'zhykoluna@gmail.com');
-define('MAIL_PASSWORD', 'dfcr dbjj hqws yfvx');
-define('MAIL_FROM', 'zhykoluna@gmail.com'); // El remitente del correo
+define('MAIL_USERNAME', '');
+define('MAIL_PASSWORD', '');
+define('MAIL_FROM', ''); // El remitente del correo
 define('MAIL_FROM_NAME', 'Sistema de Registro de Visitas'); // El nombre que se mostrará como remitente
 
 // Cargar PHPMailer
